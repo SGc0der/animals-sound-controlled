@@ -1,0 +1,32 @@
+.header_div{
+    background-color: darkslategrey;
+    color: blanchedalmond;
+    height: max-content;
+}
+#start_button{
+    letter-spacing: 2px;
+}
+#animal_image{
+    border: 2px black ridge;
+    border-radius: 35px;
+    width: 300px;
+    height: 300px;
+}
+.copy_right_footer{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 10px red;
+}
+body{
+    background-color: cadetblue;
+}
+#footer{
+    margin-left: 10px;
+    font-family: 'Poppins', sans-serif;
+    text-shadow: 10px 2px 15px red;
+}
+#header{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#header_p{
+    font-family: 'Moon Dance', cursive;
+}
